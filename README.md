@@ -1,0 +1,3 @@
+<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">EBS 스페이스 공감의 2000년대 한국 대중음악 명반 100(2004 - 2023) 을 유투브 뮤직 플레이 리스트로 만들어보자.<br>우선 claude에게 페이지에서 곡-가수 목록을 추출하는 코드 짜달라고 함. <a href="https://t.co/9pT78M9qJF">https://t.co/9pT78M9qJF</a> <a href="https://t.co/PdEniObCjo">pic.twitter.com/PdEniObCjo</a></p>&mdash; 無異 (@taekie) <a href="https://twitter.com/taekie/status/1774735285877981506?ref_src=twsrc%5Etfw">April 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+라는 x의 글을 보고 나도 해보고 싶어서 작성 시작.
